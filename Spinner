@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Cards</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            h1{color:red}
+            body{text-align: center;}
+        </style>
+    </head>
+    <body>
+        <h1>This spinner is never going to load anything!</h1><hr><hr><hr>
+        <div class="spinner-border" style="color: blue; width: 100px; height: 100px;"><h6>DON'T WAIT AND WASTE YOUR TIME!!</h6></div>
+    </body>
+</html>
