@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Cards</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            h1{color:red}
+        </style>
+    </head>
+    <body>
+        <h1>Beyblades</h1>
+        <div class="container">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://m.media-amazon.com/images/I/71ZQDRQ35fL.jpg">
+                <div class="card-body">
+                    <h5>Zest Achilles</h5>
+                    <p>Balance Type</p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://beybladepremier.com/cdn/shop/products/LayerOnly_B-192GreatestRaphael_TakaraTomyDB.jpg?v=1674101025">
+                <div class="card-body">
+                    <h5>Greatest Raphael</h5>
+                    <p>Balance Type</p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://m.media-amazon.com/images/I/81p51mfHR-S.jpg">
+                <div class="card-body">
+                    <h5>Vanish Fafnir</h5>
+                    <p>Stamina Type</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
